@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Plant_Texonomy_And_Description_Manager.iml" filepath="$PROJECT_DIR$/.idea/Plant_Texonomy_And_Description_Manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Taxonomy_Manager/Taxonomy_Manager.iml" filepath="$PROJECT_DIR$/Taxonomy_Manager/Taxonomy_Manager.iml" />
     </modules>
   </component>
 </project>
